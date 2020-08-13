@@ -1,7 +1,7 @@
 {
   "name": "roonx/request",
   "description": "A class to send a request",
-  "type": "project",
+  "type": "library",
   "license": "MIT",
   "keywords": [
     "Curl",
