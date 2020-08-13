@@ -1,0 +1,22 @@
+{
+  "name": "roonx/request",
+  "description": "A class to send a request",
+  "type": "project",
+  "keywords": [
+    "Curl",
+    "request"
+  ],
+  "homepage": "https://github.com/roonx/Request",
+  "authors": [
+    {
+      "name": "Alireax5",
+      "email": "alirezaaghax6@gmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "roonx\\": "src/"
+    }
+  }
+}
