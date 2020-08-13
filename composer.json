@@ -2,6 +2,7 @@
   "name": "roonx/request",
   "description": "A class to send a request",
   "type": "project",
+  "license": "MIT",
   "keywords": [
     "Curl",
     "request"
@@ -14,7 +15,9 @@
     }
   ],
   "require": {
-    "php": ">=7.0"
+    "php": ">=7.0",
+    "ext-curl": "*",
+    "ext-json": "*"
   },
   "autoload": {
     "psr-4": {
